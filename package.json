@@ -1,8 +1,17 @@
 {
-  "name": "cssfmt",
-  "description": "The tool applying CSS formatting guidelines.",
+  "name": "CSSfmt",
+  "description": "Apply CSS formatting guidelines to your CSS files.",
   "version": "0.0.1",
   "publisher": "Ilya Verbitskiy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ilich/cssfmt-vscode/issues"
+  },
+  "homepage": "https://github.com/ilich/cssfmt-vscode/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ilich/cssfmt-vscode"
+  },
   "engines": {
     "vscode": "^0.10.1"
   },

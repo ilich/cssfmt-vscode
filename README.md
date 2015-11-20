@@ -1,4 +1,4 @@
-# cssfmt-vscode
+# CSSfmt
 
 Visual Studio Code extension to apply CSS formatting guidelines to a file. 
 
