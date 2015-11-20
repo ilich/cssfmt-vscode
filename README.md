@@ -1,13 +1,23 @@
-# README
-## This is the README for your extension "cssfmt" 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# cssfmt-vscode
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+Visual Studio Code extension to apply CSS formatting guidelines to a file. 
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Using
 
-** Enjoy!**
+### Apply CSS guidelines to a file
+
+1. Open CSS file.
+2. Press F1 and look for the command `Format CSS`.
+3. Hit enter.
+
+### Compress CSS file
+
+1. Open CSS file.
+2. Press F1 and look for the command `Compress CSS`.
+3. Hit enter.
+
+## Configuration
+
+`cssfmt.indent` (**number**) - Set indentation size. Default: 4.
+
+`cssfmt.useTabs` (**boolean**) - Use tabs instead of spaces for indentation. Default: False.
