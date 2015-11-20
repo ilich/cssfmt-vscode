@@ -2,7 +2,7 @@
   "name": "CSSfmt",
   "description": "Apply CSS formatting guidelines to your CSS files.",
   "version": "0.0.1",
-  "publisher": "Ilya Verbitskiy",
+  "publisher": "ilich8086",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ilich/cssfmt-vscode/issues"
