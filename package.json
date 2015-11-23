@@ -1,16 +1,16 @@
 {
   "name": "CSSfmt",
   "description": "Apply CSS formatting guidelines to your CSS files.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "ilich8086",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ilich/cssfmt-vscode/issues"
+    "url": "https://github.com/ilich/vscode-cssfmt/issues"
   },
-  "homepage": "https://github.com/ilich/cssfmt-vscode/blob/master/README.md",
+  "homepage": "https://github.com/ilich/vscode-cssfmt/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ilich/cssfmt-vscode"
+    "url": "https://github.com/ilich/vscode-cssfmt"
   },
   "engines": {
     "vscode": "^0.10.1"
