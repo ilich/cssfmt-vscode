@@ -1,7 +1,7 @@
 {
   "name": "CSSfmt",
   "description": "Apply CSS formatting guidelines to your CSS files.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "ilich8086",
   "license": "MIT",
   "bugs": {
