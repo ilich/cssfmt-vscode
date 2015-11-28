@@ -2,7 +2,7 @@
 
 Visual Studio Code extension to apply CSS formatting guidelines to a file. 
 
-## Using
+## Usage
 
 ### Apply CSS guidelines to a file
 
